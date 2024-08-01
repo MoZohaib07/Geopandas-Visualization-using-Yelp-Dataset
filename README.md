@@ -27,9 +27,9 @@ Install the required libraries:
 pip install pandas numpy matplotlib seaborn geopandas statsmodels
 Run the Jupyter Notebook to perform the analysis and generate the visualizations.
 
-Link for downloading relevant files for Geopandas: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2023&layergroup=States+%28and+equivalent%29
+Link for downloading relevant files for Geopandas: 
+https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2023&layergroup=States+%28and+equivalent%29
 
 Data Source
-The dataset used for this analysis is the Yelp Academic Dataset, which includes business information such as review counts, ratings, and location data. 
-
+The dataset used for this analysis is the Yelp Academic Dataset.
 Link: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
