@@ -1,5 +1,6 @@
 Yelp Dataset Analysis
-This project involves analyzing the Yelp dataset to explore business reviews across different states in the US. The analysis includes data cleaning, statistical analysis, and visualization using various Python libraries. Key features include the correlation between reviews and ratings, and visualizing business data on a map of the US.
+
+This project involves analyzing the Yelp dataset to explore business reviews across different states in the US. The analysis includes data cleaning, statistical analysis, and visualization using various Python libraries. Key features include the correlation between reviews and ratings, and visualizing business data on a map of the US. I have attached the files I used for Geopandas visualization on the United States Map.
 
 Data Source
 The dataset used for this analysis is the Yelp Academic Dataset, which includes business information such as review counts, ratings, and location data.
